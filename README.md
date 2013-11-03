@@ -7,7 +7,7 @@
 
 ###完成展示部分的网页雏形(Finish the model of show wall page)  
 * 数据源为JSON(Set the JSON as source data)   
-`[{"title":标题,"content":内容,"contact":联系方式,"time":发布日期,"tag":标签} ,{...}...]`
+`[{"title":标题,"content":内容,"time":发布日期,"tag":标签} ,{...}...]`
 * 由HTML5+JS+JQuery实现前端展示(Make it with HTML5+JS+JQuery)      
 
 ###完成信息发布页面(Finish the page of infomation publish)    
